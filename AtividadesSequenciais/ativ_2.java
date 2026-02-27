@@ -1,5 +1,4 @@
 package AtividadesSequenciais;
-
 import java.util.Scanner;
 
 public class ativ_2 {
